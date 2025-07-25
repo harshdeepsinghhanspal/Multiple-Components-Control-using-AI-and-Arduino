@@ -1,4 +1,4 @@
-#🔦 Hand Gesture Controlled LED Brightness with Arduino & Mediapipe
+# 🔦 Hand Gesture Controlled LED Brightness with Arduino & Mediapipe
 This project allows you to control the brightness of three individual LEDs connected to an Arduino using hand gestures detected via webcam using MediaPipe and OpenCV in Python.
 
 <br/>
